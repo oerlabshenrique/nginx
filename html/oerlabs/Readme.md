@@ -5,7 +5,7 @@
       <h6>Sistema coleta as notas de um aluno e apresenta se ele está aprovado, reprovado ou de recuperação.</h6>
 
 
-<h6>Projeto: OER Labs<br> - 
+<h6>Projeto: OER Labs<br>  
 URL: https://oerlabs.com.br/ <br>
 Autor: Henrique Olivetti <br>
 Email: henrique@oerlabs.com.br<br> 
