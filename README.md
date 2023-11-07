@@ -11,10 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🦾😎
 -->
 
 
-## ⚡ Migração de Projetos OER Labs para NGinx 🖥️
+## 🦾 Migração de Projetos OER Labs para NGinx 😎
 
 * 🖥️ Resolvendo solução de instalações para soluções via NGinx.
 

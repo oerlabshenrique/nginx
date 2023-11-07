@@ -11,10 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+. 😎
 -->
 
 
-## ⚡ LPO - Levantamento de Peso 👋
+## 🦾 LPO - Levantamento de Peso 😎
 
 
  
