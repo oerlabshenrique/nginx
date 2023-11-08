@@ -9,3 +9,6 @@
 127.0.0.1 - - [07/Nov/2023:10:41:13 -0300] "GET /lpo/assets/img/233050.png HTTP/1.1" 304 0 "http://localhost/lpo/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0"
 127.0.0.1 - - [07/Nov/2023:10:41:13 -0300] "GET /lpo/assets/img/portfolio/camp01.jpeg HTTP/1.1" 304 0 "http://localhost/lpo/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0"
 127.0.0.1 - - [07/Nov/2023:10:41:13 -0300] "GET /lpo/assets/img/portfolio/camp02.jpeg HTTP/1.1" 304 0 "http://localhost/lpo/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0"
+127.0.0.1 - - [07/Nov/2023:14:27:16 -0300] "OPTIONS /C%24/Users/henri/OneDrive/Documentos HTTP/1.1" 405 157 "-" "Microsoft-WebDAV-MiniRedir/10.0.19045"
+127.0.0.1 - - [07/Nov/2023:15:58:46 -0300] "OPTIONS /C%24/nginx HTTP/1.1" 405 157 "-" "Microsoft-WebDAV-MiniRedir/10.0.19045"
+127.0.0.1 - - [07/Nov/2023:16:15:59 -0300] "OPTIONS /C%24/Users/henri/Downloads/ArteEditar HTTP/1.1" 405 157 "-" "Microsoft-WebDAV-MiniRedir/10.0.19045"

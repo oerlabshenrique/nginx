@@ -1,1 +1,2 @@
 2023/11/06 15:40:11 [error] 3160#2272: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: O sistema não pode encontrar o arquivo especificado), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/oerlabs/"
+2023/11/06 16:22:53 [error] 3160#2272: *6 CreateFile() "C:\nginx/html/favicon.ico" failed (2: O sistema não pode encontrar o arquivo especificado), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/oerlabs/"
