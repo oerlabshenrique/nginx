@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🦾 Migração de Projetos OER Labs para NGinx 😎
 
-* 🖥️ Resolvendo solução de instalações para soluções via NGinx.
+* 🖥️ Resolvendo solução de instalações para NGinx.
 
 
 =======
