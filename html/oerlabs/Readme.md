@@ -32,12 +32,12 @@ Celular: 21 99523-8400</h6><br>
 
 <thead>
 <tr>
-<th colspan="2">Quick Info</th>
+<th colspan="2">Informações de Contato</th>
 </tr>
 </thead>
       
 <tbody>
-<tr><th scope='row'>Name</th><td>Abhishek Chaudhary</td></tr>
+<tr><th scope='row'>Name</th><td>Nossos Enddereçoos</td></tr>
 <tr><th scope='row'>Born</th><td><time datetime="2002-01-11 08:00">11 January, 2002</time></td></tr>
 <tr><th scope='row'>Education</th><td>B.E.</td></tr>
 <tr><th scope='row'>Alma mater</th><td>Fr C Rodrigues institute of technology</td></tr>
