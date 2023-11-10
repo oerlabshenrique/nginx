@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ## 🦾 LPO - Levantamento de Peso 😎
 
 
-<link href="assets/img/favicon.png" rel="icon">
-
  
 * 🖥️ Sistema de Levantamento de Peso criado pela OER Tecnologia e testado pela OER Labs!
 * 🌍 [LPO - Levantamento de Peso](http://oerlabs.com.br/lpo)
