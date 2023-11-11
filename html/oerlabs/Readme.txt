@@ -6,9 +6,6 @@
 
 
 Testes de andamento com o Mac
-
-
-
 =======
 https://github.com/oerlabshenrique/oerlabs
 Git init
