@@ -6,6 +6,9 @@
 
 
 Testes de andamento com o Mac
+
+Contribuição Lenovo 
+
 =======
 https://github.com/oerlabshenrique/oerlabs
 Git init
