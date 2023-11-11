@@ -1,0 +1,36 @@
+
+
+DENTRO DA PASTA DO PROJETO
+
+git remote add origin https://github.com/user/repo.git
+
+git add --all
+
+git status
+
+git commit -m "titulo do comit"
+
+git status
+
+git push -u origin master
+
+
+VISUALIZAR ACESSOS REMOTOS ADICIONADOS
+git remote -v
+
+ALTERAR BRANCH
+
+git branch (lista branch)
+
+git checkout (nome do branch escolhido)
+
+
+ALTERAR ACESSO REMOTO
+git remote set-url origin https://oerconsul_henrique@bitbucket.org/oerconsul_henrique/praticavel.git
+
+git remote set-url origin https://oerconsul_henrique@bitbucket.org/OERTEC/praticavel.git
+
+
+
+
+
