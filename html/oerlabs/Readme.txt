@@ -5,10 +5,6 @@
 ##Celular: 21 99523-8400
 
 
-Testes de andamento com o Mac
-
-Contribuição Lenovo 
-
 =======
 https://github.com/oerlabshenrique/oerlabs
 Git init
