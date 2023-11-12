@@ -320,3 +320,6 @@
 127.0.0.1 - - [11/Nov/2023:10:36:27 -0300] "GET /praticavel/img/friend-2.png HTTP/1.1" 200 102963 "http://localhost/praticavel/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0"
 127.0.0.1 - - [11/Nov/2023:10:36:28 -0300] "GET /praticavel/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 77160 "http://localhost/praticavel/lib/font-awesome/css/font-awesome.min.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0"
 127.0.0.1 - - [11/Nov/2023:10:36:28 -0300] "GET /praticavel/img/favicon.png HTTP/1.1" 200 23281 "http://localhost/praticavel/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0"
+127.0.0.1 - - [11/Nov/2023:19:28:09 -0300] "OPTIONS /C%24/Users/henri/OneDrive/Imagens HTTP/1.1" 405 157 "-" "Microsoft-WebDAV-MiniRedir/10.0.19045"
+127.0.0.1 - - [11/Nov/2023:19:29:38 -0300] "OPTIONS /C%24/Users/henri/Downloads/ArteEditar HTTP/1.1" 405 157 "-" "Microsoft-WebDAV-MiniRedir/10.0.19045"
+127.0.0.1 - - [11/Nov/2023:19:30:57 -0300] "OPTIONS /C%24/Users/henri/Downloads/ArteEditar/2361ed43-5670-458b-a40a-7233c6aaaec4.jpg HTTP/1.1" 405 157 "-" "Microsoft-WebDAV-MiniRedir/10.0.19045"
